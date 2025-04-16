@@ -1,0 +1,36 @@
+pip install fastapi uvicorn torch torchvision pickle5 pillow pydantic numpy pandas
+
+
+
+Steps to run the Backend:
+
+Step1:- 1: Install the libraries 
+
+ pip install fastapi uvicorn torch torchvision pickle5 pillow pydantic numpy pandas
+
+
+Step2:- Run the following command to start the flask server:
+
+ python app.py
+
+Step2: to run the Frontend:
+
+open teriminal and run the following command:
+
+
+cd house-price-frontend
+
+next:
+
+npm install
+
+next:
+
+npm run dev
+
+
+wait for 2min to start the server and open the browser and type the following url:
+
+http://localhost:5173/
+
+
